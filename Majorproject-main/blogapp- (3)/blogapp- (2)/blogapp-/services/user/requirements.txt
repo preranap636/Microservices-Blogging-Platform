@@ -1,0 +1,6 @@
+npm i cloudinary
+npm i datauri
+npm i multer @types/multer
+to run:npm run dev
+npm i cors
+npm i @types/cors

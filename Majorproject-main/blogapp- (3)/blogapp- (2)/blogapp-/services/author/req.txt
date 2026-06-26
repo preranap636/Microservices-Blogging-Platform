@@ -1,0 +1,8 @@
+npm init -y
+npm i express dotenv multer datauri cloudinary 
+npm i @neondatabase/serverless
+npm i @types/express @types/multer @types/dotenv typescript
+npm install --save-dev concurrently nodemon
+npx tsc -init
+npm run build
+npm i jsonwebtoken @types/jsonwebtoken
